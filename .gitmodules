@@ -1,0 +1,6 @@
+[submodule "color-themes/twilight"]
+	path = color-themes/twilight
+	url = git://github.com/crafterm/twilight-emacs.git
+[submodule "modes/gitsum"]
+	path = modes/gitsum
+	url = git://github.com/chneukirchen/gitsum.git

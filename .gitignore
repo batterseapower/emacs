@@ -1,0 +1,10 @@
+# Nested repository source-code-control information
+_darcs/
+
+# Transitory AquaMacs stuff
+.id
+Recent Files.el
+frame-positions.el
+minibuffer-history.el
+places.el
+auto-save-list/
