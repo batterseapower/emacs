@@ -4,3 +4,6 @@
 [submodule "modes/gitsum"]
 	path = modes/gitsum
 	url = git://github.com/chneukirchen/gitsum.git
+[submodule "modes/textmate"]
+	path = modes/textmate
+	url = git://github.com/defunkt/textmate.el.git
